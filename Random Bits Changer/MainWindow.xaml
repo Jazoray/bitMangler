@@ -14,7 +14,7 @@
         <TextBox x:Name="bitsCounter" HorizontalAlignment="Left" Height="18" Margin="52,178,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="89" AllowDrop="False"/>
         <Label Content="bits to change: type a number" HorizontalAlignment="Left" Margin="41,147,0,0" VerticalAlignment="Top"/>
         <Button x:Name="LaunchButton" Content="DO THE MAGIC" HorizontalAlignment="Left" Margin="41,236,0,0" VerticalAlignment="Top" Width="89" Click="Button_Click" RenderTransformOrigin="-0.75,-1.821" Height="32"/>
-        <Label x:Name="outputLabel" Content="" HorizontalAlignment="Left" Margin="199,236,0,0" VerticalAlignment="Top" Height="40" Width="218"/>
+        <Label x:Name="outputLabel" Content="" HorizontalAlignment="Left" Margin="150,236,0,0" VerticalAlignment="Top" Height="59" Width="347"/>
         <Label Content="1." HorizontalAlignment="Left" Margin="10,17,0,0" VerticalAlignment="Top"/>
         <Label Content="2." HorizontalAlignment="Left" Margin="10,147,0,0" VerticalAlignment="Top"/>
         <Label Content="3." HorizontalAlignment="Left" Margin="10,223,0,0" VerticalAlignment="Top"/>

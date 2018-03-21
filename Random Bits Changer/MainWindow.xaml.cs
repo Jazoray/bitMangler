@@ -69,7 +69,7 @@ namespace Random_Bits_Changer
 
                 System.IO.File.WriteAllBytes(outputFileName, result);
 
-
+                outputLabel.Content = "your bitflipped file was saved to " +System.Environment.NewLine + outputFileName;
             }
 
         }
